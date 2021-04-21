@@ -1,0 +1,1067 @@
+red player's turn (he is losing by 0 before playing)
+
+  01234567 
+ +--------+
+0|[31mx(B[m      [36mo(B[m|
+1|        |
+2|        |
+3|        |
+4|        |
+5|        |
+6|        |
+7|[36mo(B[m      [31mx(B[m|
+ +--------+
+Je suis de profondeur 3
+blue player's turn (he is losing by 1 before playing)
+
+  01234567 
+ +--------+
+0|[31mx(B[m[31mx(B[m     [36mo(B[m|
+1|        |
+2|        |
+3|        |
+4|        |
+5|        |
+6|        |
+7|[36mo(B[m      [31mx(B[m|
+ +--------+
+red player's turn (he is losing by 0 before playing)
+
+  01234567 
+ +--------+
+0|[31mx(B[m[31mx(B[m    [36mo(B[m[36mo(B[m|
+1|        |
+2|        |
+3|        |
+4|        |
+5|        |
+6|        |
+7|[36mo(B[m      [31mx(B[m|
+ +--------+
+Je suis de profondeur 3
+blue player's turn (he is losing by 1 before playing)
+
+  01234567 
+ +--------+
+0|[31mx(B[m[31mx(B[m[31mx(B[m   [36mo(B[m[36mo(B[m|
+1|        |
+2|        |
+3|        |
+4|        |
+5|        |
+6|        |
+7|[36mo(B[m      [31mx(B[m|
+ +--------+
+red player's turn (he is losing by 0 before playing)
+
+  01234567 
+ +--------+
+0|[31mx(B[m[31mx(B[m[31mx(B[m  [36mo(B[m[36mo(B[m[36mo(B[m|
+1|        |
+2|        |
+3|        |
+4|        |
+5|        |
+6|        |
+7|[36mo(B[m      [31mx(B[m|
+ +--------+
+Je suis de profondeur 3
+blue player's turn (he is losing by 1 before playing)
+
+  01234567 
+ +--------+
+0|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m [36mo(B[m[36mo(B[m[36mo(B[m|
+1|        |
+2|        |
+3|        |
+4|        |
+5|        |
+6|        |
+7|[36mo(B[m      [31mx(B[m|
+ +--------+
+red player's turn (he is losing by 3 before playing)
+
+  01234567 
+ +--------+
+0|[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m  [36mo(B[m[36mo(B[m|
+1|   [36mo(B[m    |
+2|        |
+3|        |
+4|        |
+5|        |
+6|        |
+7|[36mo(B[m      [31mx(B[m|
+ +--------+
+Je suis de profondeur 3
+blue player's turn (he is losing by 4 before playing)
+
+  01234567 
+ +--------+
+0|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m  [36mo(B[m[36mo(B[m|
+1|  [31mx(B[m[31mx(B[m    |
+2|        |
+3|        |
+4|        |
+5|        |
+6|        |
+7|[36mo(B[m      [31mx(B[m|
+ +--------+
+red player's turn (he is losing by 0 before playing)
+
+  01234567 
+ +--------+
+0|[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m  [36mo(B[m|
+1|  [31mx(B[m[36mo(B[m    |
+2|        |
+3|        |
+4|        |
+5|        |
+6|        |
+7|[36mo(B[m      [31mx(B[m|
+ +--------+
+Je suis de profondeur 3
+blue player's turn (he is losing by 1 before playing)
+
+  01234567 
+ +--------+
+0|[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m  [36mo(B[m|
+1| [31mx(B[m[31mx(B[m[36mo(B[m    |
+2|        |
+3|        |
+4|        |
+5|        |
+6|        |
+7|[36mo(B[m      [31mx(B[m|
+ +--------+
+red player's turn (he is losing by 4 before playing)
+
+  01234567 
+ +--------+
+0|[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m  [36mo(B[m|
+1| [36mo(B[m[36mo(B[m[36mo(B[m    |
+2|  [36mo(B[m     |
+3|        |
+4|        |
+5|        |
+6|        |
+7|[36mo(B[m      [31mx(B[m|
+ +--------+
+Je suis de profondeur 3
+blue player's turn (he is losing by -1 before playing)
+
+  01234567 
+ +--------+
+0|[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m  [36mo(B[m|
+1|[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m    |
+2|  [36mo(B[m     |
+3|        |
+4|        |
+5|        |
+6|        |
+7|[36mo(B[m      [31mx(B[m|
+ +--------+
+red player's turn (he is losing by 6 before playing)
+
+  01234567 
+ +--------+
+0|[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m  [36mo(B[m|
+1|[36mo(B[m[36mo(B[m[36mo(B[m[36mo(B[m    |
+2| [36mo(B[m[36mo(B[m     |
+3|        |
+4|        |
+5|        |
+6|        |
+7|[36mo(B[m      [31mx(B[m|
+ +--------+
+Je suis de profondeur 3
+blue player's turn (he is losing by -5 before playing)
+
+  01234567 
+ +--------+
+0|[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m  [36mo(B[m|
+1|[36mo(B[m[36mo(B[m[36mo(B[m[36mo(B[m    |
+2| [36mo(B[m[36mo(B[m     |
+3|        |
+4|        |
+5|        |
+6|      [31mx(B[m |
+7|[36mo(B[m      [31mx(B[m|
+ +--------+
+red player's turn (he is losing by 6 before playing)
+
+  01234567 
+ +--------+
+0|[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m[36mo(B[m [36mo(B[m|
+1|[36mo(B[m[36mo(B[m[36mo(B[m[36mo(B[m    |
+2| [36mo(B[m[36mo(B[m     |
+3|        |
+4|        |
+5|        |
+6|      [31mx(B[m |
+7|[36mo(B[m      [31mx(B[m|
+ +--------+
+Je suis de profondeur 3
+blue player's turn (he is losing by -5 before playing)
+
+  01234567 
+ +--------+
+0|[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m[36mo(B[m [36mo(B[m|
+1|[36mo(B[m[36mo(B[m[36mo(B[m[36mo(B[m    |
+2| [36mo(B[m[36mo(B[m     |
+3|        |
+4|        |
+5|     [31mx(B[m  |
+6|      [31mx(B[m |
+7|[36mo(B[m      [31mx(B[m|
+ +--------+
+red player's turn (he is losing by 7 before playing)
+
+  01234567 
+ +--------+
+0|[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m[36mo(B[m [36mo(B[m|
+1|[36mo(B[m[36mo(B[m[36mo(B[m[36mo(B[m    |
+2| [36mo(B[m      |
+3|        |
+4|    [36mo(B[m   |
+5|     [36mo(B[m  |
+6|      [31mx(B[m |
+7|[36mo(B[m      [31mx(B[m|
+ +--------+
+Je suis de profondeur 3
+blue player's turn (he is losing by -1 before playing)
+
+  01234567 
+ +--------+
+0| [31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m[36mo(B[m [36mo(B[m|
+1|[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m    |
+2|[31mx(B[m[31mx(B[m      |
+3|        |
+4|    [36mo(B[m   |
+5|     [36mo(B[m  |
+6|      [31mx(B[m |
+7|[36mo(B[m      [31mx(B[m|
+ +--------+
+red player's turn (he is losing by 7 before playing)
+
+  01234567 
+ +--------+
+0|[36mo(B[m[36mo(B[m[31mx(B[m[36mo(B[m[36mo(B[m[36mo(B[m [36mo(B[m|
+1|[36mo(B[m[36mo(B[m [36mo(B[m    |
+2|[31mx(B[m[31mx(B[m      |
+3|        |
+4|    [36mo(B[m   |
+5|     [36mo(B[m  |
+6|      [31mx(B[m |
+7|[36mo(B[m      [31mx(B[m|
+ +--------+
+Je suis de profondeur 3
+blue player's turn (he is losing by 2 before playing)
+
+  01234567 
+ +--------+
+0|[36mo(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m [36mo(B[m|
+1|[36mo(B[m[31mx(B[m[31mx(B[m[31mx(B[m    |
+2|[31mx(B[m[31mx(B[m      |
+3|        |
+4|    [36mo(B[m   |
+5|     [36mo(B[m  |
+6|      [31mx(B[m |
+7|[36mo(B[m      [31mx(B[m|
+ +--------+
+red player's turn (he is losing by 6 before playing)
+
+  01234567 
+ +--------+
+0| [31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m [36mo(B[m|
+1|[36mo(B[m[36mo(B[m[36mo(B[m[36mo(B[m    |
+2|[31mx(B[m[36mo(B[m[36mo(B[m     |
+3|        |
+4|    [36mo(B[m   |
+5|     [36mo(B[m  |
+6|      [31mx(B[m |
+7|[36mo(B[m      [31mx(B[m|
+ +--------+
+Je suis de profondeur 3
+blue player's turn (he is losing by -1 before playing)
+
+  01234567 
+ +--------+
+0|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m [36mo(B[m|
+1|[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m    |
+2|[31mx(B[m[36mo(B[m[36mo(B[m     |
+3|        |
+4|    [36mo(B[m   |
+5|     [36mo(B[m  |
+6|      [31mx(B[m |
+7|[36mo(B[m      [31mx(B[m|
+ +--------+
+red player's turn (he is losing by 5 before playing)
+
+  01234567 
+ +--------+
+0|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m [36mo(B[m|
+1|[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m    |
+2|[31mx(B[m[36mo(B[m[36mo(B[m     |
+3|        |
+4|    [36mo(B[m   |
+5|        |
+6|      [36mo(B[m |
+7|[36mo(B[m     [36mo(B[m[36mo(B[m|
+ +--------+
+Je suis de profondeur 3
+blue player's turn (he is losing by 2 before playing)
+
+  01234567 
+ +--------+
+0|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m [36mo(B[m|
+1|[31mx(B[m[31mx(B[m[36mo(B[m[31mx(B[m[31mx(B[m   |
+2|[31mx(B[m[36mo(B[m[36mo(B[m     |
+3|        |
+4|    [36mo(B[m   |
+5|        |
+6|      [36mo(B[m |
+7|[36mo(B[m     [36mo(B[m[36mo(B[m|
+ +--------+
+red player's turn (he is losing by 4 before playing)
+
+  01234567 
+ +--------+
+0|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m  |
+1|[31mx(B[m[31mx(B[m[36mo(B[m[31mx(B[m[36mo(B[m[36mo(B[m  |
+2|[31mx(B[m[36mo(B[m[36mo(B[m     |
+3|        |
+4|    [36mo(B[m   |
+5|        |
+6|      [36mo(B[m |
+7|[36mo(B[m     [36mo(B[m[36mo(B[m|
+ +--------+
+Je suis de profondeur 3
+blue player's turn (he is losing by 3 before playing)
+
+  01234567 
+ +--------+
+0|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m  |
+1|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m  |
+2|[31mx(B[m[36mo(B[m[31mx(B[m[31mx(B[m    |
+3|        |
+4|    [36mo(B[m   |
+5|        |
+6|      [36mo(B[m |
+7|[36mo(B[m     [36mo(B[m[36mo(B[m|
+ +--------+
+red player's turn (he is losing by 4 before playing)
+
+  01234567 
+ +--------+
+0|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m  |
+1|[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m[36mo(B[m  |
+2|[31mx(B[m[36mo(B[m[31mx(B[m[36mo(B[m[36mo(B[m   |
+3|        |
+4|    [36mo(B[m   |
+5|        |
+6|      [36mo(B[m |
+7|[36mo(B[m     [36mo(B[m[36mo(B[m|
+ +--------+
+Je suis de profondeur 3
+blue player's turn (he is losing by -1 before playing)
+
+  01234567 
+ +--------+
+0|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m  |
+1|[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m[36mo(B[m  |
+2|[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m   |
+3|[31mx(B[m       |
+4|    [36mo(B[m   |
+5|        |
+6|      [36mo(B[m |
+7|[36mo(B[m     [36mo(B[m[36mo(B[m|
+ +--------+
+red player's turn (he is losing by 9 before playing)
+
+  01234567 
+ +--------+
+0|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m  |
+1|[31mx(B[m[31mx(B[m[31mx(B[m [36mo(B[m[36mo(B[m  |
+2|[36mo(B[m[36mo(B[m[36mo(B[m[36mo(B[m[36mo(B[m   |
+3|[36mo(B[m[36mo(B[m      |
+4|    [36mo(B[m   |
+5|        |
+6|      [36mo(B[m |
+7|[36mo(B[m     [36mo(B[m[36mo(B[m|
+ +--------+
+Je suis de profondeur 3
+blue player's turn (he is losing by 2 before playing)
+
+  01234567 
+ +--------+
+0|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m  |
+1|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m  |
+2|[36mo(B[m[36mo(B[m[31mx(B[m[31mx(B[m[31mx(B[m   |
+3|[36mo(B[m[36mo(B[m      |
+4|    [36mo(B[m   |
+5|        |
+6|      [36mo(B[m |
+7|[36mo(B[m     [36mo(B[m[36mo(B[m|
+ +--------+
+red player's turn (he is losing by 5 before playing)
+
+  01234567 
+ +--------+
+0|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m  |
+1|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m  |
+2|[36mo(B[m[36mo(B[m[36mo(B[m[36mo(B[m[36mo(B[m   |
+3|[36mo(B[m[36mo(B[m [36mo(B[m    |
+4|    [36mo(B[m   |
+5|        |
+6|      [36mo(B[m |
+7|[36mo(B[m     [36mo(B[m[36mo(B[m|
+ +--------+
+Je suis de profondeur 3
+blue player's turn (he is losing by 0 before playing)
+
+  01234567 
+ +--------+
+0|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m  |
+1|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m  |
+2|[36mo(B[m[36mo(B[m[36mo(B[m[36mo(B[m[31mx(B[m[31mx(B[m  |
+3|[36mo(B[m[36mo(B[m [36mo(B[m    |
+4|    [36mo(B[m   |
+5|        |
+6|      [36mo(B[m |
+7|[36mo(B[m     [36mo(B[m[36mo(B[m|
+ +--------+
+red player's turn (he is losing by 5 before playing)
+
+  01234567 
+ +--------+
+0|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m  |
+1|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m |
+2|[36mo(B[m[36mo(B[m[36mo(B[m[36mo(B[m[31mx(B[m[36mo(B[m  |
+3|[36mo(B[m[36mo(B[m [36mo(B[m    |
+4|    [36mo(B[m   |
+5|        |
+6|      [36mo(B[m |
+7|[36mo(B[m     [36mo(B[m[36mo(B[m|
+ +--------+
+Je suis de profondeur 3
+blue player's turn (he is losing by 4 before playing)
+
+  01234567 
+ +--------+
+0|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m  |
+1|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m |
+2|[36mo(B[m[36mo(B[m[36mo(B[m[31mx(B[m[31mx(B[m[31mx(B[m  |
+3|[36mo(B[m[36mo(B[m [31mx(B[m[31mx(B[m   |
+4|    [31mx(B[m   |
+5|        |
+6|      [36mo(B[m |
+7|[36mo(B[m     [36mo(B[m[36mo(B[m|
+ +--------+
+red player's turn (he is losing by 4 before playing)
+
+  01234567 
+ +--------+
+0|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m  |
+1|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m [36mo(B[m |
+2|[36mo(B[m[36mo(B[m[36mo(B[m[31mx(B[m[36mo(B[m[36mo(B[m  |
+3|[36mo(B[m[36mo(B[m [31mx(B[m[36mo(B[m[36mo(B[m  |
+4|    [36mo(B[m   |
+5|        |
+6|      [36mo(B[m |
+7|[36mo(B[m     [36mo(B[m[36mo(B[m|
+ +--------+
+Je suis de profondeur 3
+blue player's turn (he is losing by 5 before playing)
+
+  01234567 
+ +--------+
+0|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m  |
+1|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m |
+2|[36mo(B[m[36mo(B[m[36mo(B[m[31mx(B[m[31mx(B[m[31mx(B[m  |
+3|[36mo(B[m[36mo(B[m [31mx(B[m[36mo(B[m[36mo(B[m  |
+4|    [36mo(B[m   |
+5|        |
+6|      [36mo(B[m |
+7|[36mo(B[m     [36mo(B[m[36mo(B[m|
+ +--------+
+red player's turn (he is losing by 2 before playing)
+
+  01234567 
+ +--------+
+0|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m  |
+1|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m |
+2|[36mo(B[m[36mo(B[m[36mo(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m |
+3|[36mo(B[m[36mo(B[m [31mx(B[m[36mo(B[m[36mo(B[m  |
+4|    [36mo(B[m   |
+5|        |
+6|      [36mo(B[m |
+7|[36mo(B[m     [36mo(B[m[36mo(B[m|
+ +--------+
+Je suis de profondeur 3
+blue player's turn (he is losing by 3 before playing)
+
+  01234567 
+ +--------+
+0|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m |
+1|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m |
+2|[36mo(B[m[36mo(B[m[36mo(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m |
+3|[36mo(B[m[36mo(B[m [31mx(B[m[36mo(B[m[36mo(B[m  |
+4|    [36mo(B[m   |
+5|        |
+6|      [36mo(B[m |
+7|[36mo(B[m     [36mo(B[m[36mo(B[m|
+ +--------+
+red player's turn (he is losing by 2 before playing)
+
+  01234567 
+ +--------+
+0|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m |
+1|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m|
+2|[36mo(B[m[36mo(B[m[36mo(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m |
+3|[36mo(B[m[36mo(B[m [31mx(B[m[36mo(B[m[36mo(B[m  |
+4|    [36mo(B[m   |
+5|        |
+6|      [36mo(B[m |
+7|[36mo(B[m     [36mo(B[m[36mo(B[m|
+ +--------+
+Je suis de profondeur 3
+blue player's turn (he is losing by 5 before playing)
+
+  01234567 
+ +--------+
+0|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m |
+1|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m|
+2|[36mo(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m |
+3|[36mo(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m  |
+4|    [36mo(B[m   |
+5|        |
+6|      [36mo(B[m |
+7|[36mo(B[m     [36mo(B[m[36mo(B[m|
+ +--------+
+red player's turn (he is losing by 1 before playing)
+
+  01234567 
+ +--------+
+0|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m |
+1|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m|
+2| [31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m |
+3|[36mo(B[m[36mo(B[m[36mo(B[m[36mo(B[m[36mo(B[m[36mo(B[m  |
+4|  [36mo(B[m [36mo(B[m   |
+5|        |
+6|      [36mo(B[m |
+7|[36mo(B[m     [36mo(B[m[36mo(B[m|
+ +--------+
+Je suis de profondeur 3
+blue player's turn (he is losing by 4 before playing)
+
+  01234567 
+ +--------+
+0|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m |
+1|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m|
+2|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m |
+3|[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m[36mo(B[m[36mo(B[m  |
+4|  [36mo(B[m [36mo(B[m   |
+5|        |
+6|      [36mo(B[m |
+7|[36mo(B[m     [36mo(B[m[36mo(B[m|
+ +--------+
+red player's turn (he is losing by 1 before playing)
+
+  01234567 
+ +--------+
+0|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m |
+1|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m|
+2|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m |
+3|[36mo(B[m[36mo(B[m[36mo(B[m[36mo(B[m[36mo(B[m[36mo(B[m  |
+4| [36mo(B[m[36mo(B[m [36mo(B[m   |
+5|        |
+6|      [36mo(B[m |
+7|[36mo(B[m     [36mo(B[m[36mo(B[m|
+ +--------+
+Je suis de profondeur 3
+blue player's turn (he is losing by 5 before playing)
+
+  01234567 
+ +--------+
+0|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m [31mx(B[m[31mx(B[m|
+1|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m|
+2|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m |
+3|[36mo(B[m[36mo(B[m[36mo(B[m[36mo(B[m[36mo(B[m[36mo(B[m  |
+4| [36mo(B[m[36mo(B[m [36mo(B[m   |
+5|        |
+6|      [36mo(B[m |
+7|[36mo(B[m     [36mo(B[m[36mo(B[m|
+ +--------+
+red player's turn (he is losing by 5 before playing)
+
+  01234567 
+ +--------+
+0|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m[36mo(B[m[31mx(B[m|
+1|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m[36mo(B[m[31mx(B[m|
+2|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m [36mo(B[m |
+3|[36mo(B[m[36mo(B[m[36mo(B[m[36mo(B[m[36mo(B[m[36mo(B[m  |
+4| [36mo(B[m[36mo(B[m [36mo(B[m   |
+5|        |
+6|      [36mo(B[m |
+7|[36mo(B[m     [36mo(B[m[36mo(B[m|
+ +--------+
+Je suis de profondeur 3
+blue player's turn (he is losing by 8 before playing)
+
+  01234567 
+ +--------+
+0|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m[36mo(B[m[31mx(B[m|
+1|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m|
+2|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m |
+3|[36mo(B[m[36mo(B[m[36mo(B[m[36mo(B[m[31mx(B[m[31mx(B[m  |
+4| [36mo(B[m[36mo(B[m [36mo(B[m   |
+5|        |
+6|      [36mo(B[m |
+7|[36mo(B[m     [36mo(B[m[36mo(B[m|
+ +--------+
+red player's turn (he is losing by -2 before playing)
+
+  01234567 
+ +--------+
+0|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m [36mo(B[m[31mx(B[m|
+1|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m|
+2|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m|
+3|[36mo(B[m[36mo(B[m[36mo(B[m[36mo(B[m[31mx(B[m[31mx(B[m  |
+4| [36mo(B[m[36mo(B[m [36mo(B[m   |
+5|        |
+6|      [36mo(B[m |
+7|[36mo(B[m     [36mo(B[m[36mo(B[m|
+ +--------+
+Je suis de profondeur 3
+blue player's turn (he is losing by 9 before playing)
+
+  01234567 
+ +--------+
+0|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m|
+1|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m|
+2|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m|
+3|[36mo(B[m[36mo(B[m[36mo(B[m[36mo(B[m[31mx(B[m[31mx(B[m  |
+4| [36mo(B[m[36mo(B[m [36mo(B[m   |
+5|        |
+6|      [36mo(B[m |
+7|[36mo(B[m     [36mo(B[m[36mo(B[m|
+ +--------+
+red player's turn (he is losing by -4 before playing)
+
+  01234567 
+ +--------+
+0|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m|
+1|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m|
+2|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m[36mo(B[m|
+3|[36mo(B[m[36mo(B[m[36mo(B[m[36mo(B[m[31mx(B[m[36mo(B[m[36mo(B[m |
+4| [36mo(B[m[36mo(B[m [36mo(B[m   |
+5|        |
+6|      [36mo(B[m |
+7|[36mo(B[m     [36mo(B[m[36mo(B[m|
+ +--------+
+Je suis de profondeur 3
+blue player's turn (he is losing by 13 before playing)
+
+  01234567 
+ +--------+
+0|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m|
+1|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m|
+2|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m[36mo(B[m|
+3|[36mo(B[m[36mo(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m |
+4| [36mo(B[m[31mx(B[m[31mx(B[m[31mx(B[m   |
+5|        |
+6|      [36mo(B[m |
+7|[36mo(B[m     [36mo(B[m[36mo(B[m|
+ +--------+
+red player's turn (he is losing by -7 before playing)
+
+  01234567 
+ +--------+
+0|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m|
+1|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m|
+2|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m[36mo(B[m|
+3|[36mo(B[m [31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m |
+4| [36mo(B[m[36mo(B[m[36mo(B[m[36mo(B[m   |
+5|   [36mo(B[m    |
+6|      [36mo(B[m |
+7|[36mo(B[m     [36mo(B[m[36mo(B[m|
+ +--------+
+Je suis de profondeur 3
+blue player's turn (he is losing by 14 before playing)
+
+  01234567 
+ +--------+
+0|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m|
+1|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m|
+2|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m[36mo(B[m|
+3|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m |
+4| [31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m   |
+5|   [36mo(B[m    |
+6|      [36mo(B[m |
+7|[36mo(B[m     [36mo(B[m[36mo(B[m|
+ +--------+
+red player's turn (he is losing by -9 before playing)
+
+  01234567 
+ +--------+
+0|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m|
+1|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m|
+2|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m[36mo(B[m|
+3|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m |
+4| [36mo(B[m[36mo(B[m[36mo(B[m[36mo(B[m   |
+5|  [36mo(B[m[36mo(B[m    |
+6|      [36mo(B[m |
+7|[36mo(B[m     [36mo(B[m[36mo(B[m|
+ +--------+
+Je suis de profondeur 3
+blue player's turn (he is losing by 12 before playing)
+
+  01234567 
+ +--------+
+0|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m|
+1|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m|
+2|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m[36mo(B[m|
+3|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m |
+4|[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m[36mo(B[m   |
+5|  [36mo(B[m[36mo(B[m    |
+6|      [36mo(B[m |
+7|[36mo(B[m     [36mo(B[m[36mo(B[m|
+ +--------+
+red player's turn (he is losing by -7 before playing)
+
+  01234567 
+ +--------+
+0|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m|
+1|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m|
+2|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m[36mo(B[m|
+3|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m |
+4|[36mo(B[m[36mo(B[m[36mo(B[m[36mo(B[m[36mo(B[m   |
+5| [36mo(B[m[36mo(B[m[36mo(B[m    |
+6|      [36mo(B[m |
+7|[36mo(B[m     [36mo(B[m[36mo(B[m|
+ +--------+
+Je suis de profondeur 3
+blue player's turn (he is losing by 14 before playing)
+
+  01234567 
+ +--------+
+0|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m|
+1|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m|
+2|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m[36mo(B[m|
+3|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m |
+4|[36mo(B[m[36mo(B[m[36mo(B[m[36mo(B[m[31mx(B[m[31mx(B[m  |
+5| [36mo(B[m[36mo(B[m[36mo(B[m    |
+6|      [36mo(B[m |
+7|[36mo(B[m     [36mo(B[m[36mo(B[m|
+ +--------+
+red player's turn (he is losing by -8 before playing)
+
+  01234567 
+ +--------+
+0|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m|
+1|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m|
+2|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m [36mo(B[m[36mo(B[m|
+3|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m |
+4|[36mo(B[m[36mo(B[m[36mo(B[m[36mo(B[m[31mx(B[m[36mo(B[m[36mo(B[m |
+5| [36mo(B[m[36mo(B[m[36mo(B[m    |
+6|      [36mo(B[m |
+7|[36mo(B[m     [36mo(B[m[36mo(B[m|
+ +--------+
+Je suis de profondeur 3
+blue player's turn (he is losing by 15 before playing)
+
+  01234567 
+ +--------+
+0|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m|
+1|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m|
+2|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m|
+3|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m |
+4|[36mo(B[m[36mo(B[m[36mo(B[m[36mo(B[m[31mx(B[m[36mo(B[m[36mo(B[m |
+5| [36mo(B[m[36mo(B[m[36mo(B[m    |
+6|      [36mo(B[m |
+7|[36mo(B[m     [36mo(B[m[36mo(B[m|
+ +--------+
+red player's turn (he is losing by -10 before playing)
+
+  01234567 
+ +--------+
+0|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m|
+1|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m|
+2|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m|
+3|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m|
+4|[36mo(B[m[36mo(B[m[36mo(B[m[36mo(B[m[31mx(B[m[36mo(B[m[36mo(B[m |
+5| [36mo(B[m[36mo(B[m[36mo(B[m    |
+6|      [36mo(B[m |
+7|[36mo(B[m     [36mo(B[m[36mo(B[m|
+ +--------+
+Je suis de profondeur 3
+blue player's turn (he is losing by 17 before playing)
+
+  01234567 
+ +--------+
+0|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m|
+1|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m|
+2|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m|
+3|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m|
+4|[36mo(B[m[36mo(B[m[36mo(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m |
+5| [36mo(B[m[36mo(B[m[31mx(B[m[31mx(B[m   |
+6|      [36mo(B[m |
+7|[36mo(B[m     [36mo(B[m[36mo(B[m|
+ +--------+
+red player's turn (he is losing by -10 before playing)
+
+  01234567 
+ +--------+
+0|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m|
+1|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m|
+2|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m|
+3|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m|
+4|[36mo(B[m[36mo(B[m[36mo(B[m[31mx(B[m[36mo(B[m[36mo(B[m[36mo(B[m |
+5| [36mo(B[m[36mo(B[m[31mx(B[m[36mo(B[m[36mo(B[m  |
+6|      [36mo(B[m |
+7|[36mo(B[m     [36mo(B[m[36mo(B[m|
+ +--------+
+Je suis de profondeur 3
+blue player's turn (he is losing by 15 before playing)
+
+  01234567 
+ +--------+
+0|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m|
+1|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m|
+2|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m|
+3|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m|
+4|[36mo(B[m[36mo(B[m[36mo(B[m[31mx(B[m[36mo(B[m[36mo(B[m[36mo(B[m |
+5| [31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m  |
+6|  [31mx(B[m   [36mo(B[m |
+7|[36mo(B[m     [36mo(B[m[36mo(B[m|
+ +--------+
+red player's turn (he is losing by -8 before playing)
+
+  01234567 
+ +--------+
+0|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m|
+1|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m|
+2|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m|
+3|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m|
+4|[36mo(B[m[36mo(B[m[36mo(B[m[31mx(B[m[36mo(B[m[36mo(B[m[36mo(B[m |
+5| [36mo(B[m[36mo(B[m[31mx(B[m[36mo(B[m[36mo(B[m  |
+6| [36mo(B[m[36mo(B[m   [36mo(B[m |
+7|[36mo(B[m     [36mo(B[m[36mo(B[m|
+ +--------+
+Je suis de profondeur 3
+blue player's turn (he is losing by 15 before playing)
+
+  01234567 
+ +--------+
+0|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m|
+1|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m|
+2|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m|
+3|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m|
+4|[36mo(B[m[36mo(B[m[36mo(B[m[31mx(B[m[36mo(B[m[36mo(B[m[36mo(B[m |
+5| [36mo(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m  |
+6| [36mo(B[m[31mx(B[m[31mx(B[m  [36mo(B[m |
+7|[36mo(B[m     [36mo(B[m[36mo(B[m|
+ +--------+
+red player's turn (he is losing by -8 before playing)
+
+  01234567 
+ +--------+
+0|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m|
+1|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m|
+2|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m|
+3|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m|
+4|[36mo(B[m[36mo(B[m[36mo(B[m[31mx(B[m[36mo(B[m[36mo(B[m[36mo(B[m |
+5| [36mo(B[m[31mx(B[m[36mo(B[m[36mo(B[m[36mo(B[m  |
+6| [36mo(B[m[31mx(B[m[36mo(B[m[36mo(B[m [36mo(B[m |
+7|[36mo(B[m     [36mo(B[m[36mo(B[m|
+ +--------+
+Je suis de profondeur 3
+blue player's turn (he is losing by 13 before playing)
+
+  01234567 
+ +--------+
+0|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m|
+1|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m|
+2|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m|
+3|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m|
+4|[36mo(B[m[36mo(B[m[36mo(B[m[31mx(B[m[36mo(B[m[36mo(B[m[36mo(B[m |
+5| [36mo(B[m[31mx(B[m[36mo(B[m[36mo(B[m[36mo(B[m  |
+6| [31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m [36mo(B[m |
+7|[31mx(B[m[31mx(B[m    [36mo(B[m[36mo(B[m|
+ +--------+
+red player's turn (he is losing by -6 before playing)
+
+  01234567 
+ +--------+
+0|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m|
+1|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m|
+2|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m|
+3|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m|
+4|[36mo(B[m[36mo(B[m[36mo(B[m[31mx(B[m[36mo(B[m[36mo(B[m[36mo(B[m |
+5| [36mo(B[m[31mx(B[m[36mo(B[m[36mo(B[m[36mo(B[m  |
+6|[36mo(B[m[36mo(B[m[31mx(B[m[36mo(B[m[36mo(B[m [36mo(B[m |
+7|[36mo(B[m[36mo(B[m    [36mo(B[m[36mo(B[m|
+ +--------+
+Je suis de profondeur 3
+blue player's turn (he is losing by 13 before playing)
+
+  01234567 
+ +--------+
+0|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m|
+1|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m|
+2|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m|
+3|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m|
+4|[36mo(B[m[36mo(B[m[36mo(B[m[31mx(B[m[36mo(B[m[36mo(B[m[36mo(B[m |
+5| [36mo(B[m[31mx(B[m[36mo(B[m[36mo(B[m[36mo(B[m  |
+6|[36mo(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m [36mo(B[m |
+7|[36mo(B[m[31mx(B[m[31mx(B[m   [36mo(B[m[36mo(B[m|
+ +--------+
+red player's turn (he is losing by -6 before playing)
+
+  01234567 
+ +--------+
+0|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m|
+1|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m|
+2|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m|
+3|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m|
+4|[36mo(B[m[36mo(B[m[36mo(B[m[31mx(B[m[36mo(B[m[36mo(B[m[36mo(B[m |
+5| [36mo(B[m[31mx(B[m[36mo(B[m[36mo(B[m[36mo(B[m  |
+6|[36mo(B[m[31mx(B[m[36mo(B[m[36mo(B[m[36mo(B[m [36mo(B[m |
+7|[36mo(B[m[31mx(B[m[36mo(B[m[36mo(B[m  [36mo(B[m[36mo(B[m|
+ +--------+
+Je suis de profondeur 3
+blue player's turn (he is losing by 15 before playing)
+
+  01234567 
+ +--------+
+0|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m|
+1|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m|
+2|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m|
+3|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m|
+4|[31mx(B[m[31mx(B[m[36mo(B[m[31mx(B[m[36mo(B[m[36mo(B[m[36mo(B[m |
+5|[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m[36mo(B[m  |
+6|[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m[36mo(B[m [36mo(B[m |
+7|[36mo(B[m[31mx(B[m[36mo(B[m[36mo(B[m  [36mo(B[m[36mo(B[m|
+ +--------+
+red player's turn (he is losing by -14 before playing)
+
+  01234567 
+ +--------+
+0|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m|
+1|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m|
+2|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m|
+3|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m|
+4|[31mx(B[m[31mx(B[m[36mo(B[m[31mx(B[m[36mo(B[m[36mo(B[m[36mo(B[m[36mo(B[m|
+5|[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m[36mo(B[m  |
+6|[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m[36mo(B[m [36mo(B[m |
+7|[36mo(B[m[31mx(B[m[36mo(B[m[36mo(B[m  [36mo(B[m[36mo(B[m|
+ +--------+
+Je suis de profondeur 3
+blue player's turn (he is losing by 24 before playing)
+
+  01234567 
+ +--------+
+0|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m|
+1|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m|
+2|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m|
+3|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m [31mx(B[m[36mo(B[m[36mo(B[m|
+4|[31mx(B[m[31mx(B[m[36mo(B[m[31mx(B[m[36mo(B[m[31mx(B[m[31mx(B[m[31mx(B[m|
+5|[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m[31mx(B[m[31mx(B[m |
+6|[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m[36mo(B[m [31mx(B[m |
+7|[36mo(B[m[31mx(B[m[36mo(B[m[36mo(B[m  [36mo(B[m[36mo(B[m|
+ +--------+
+red player's turn (he is losing by -9 before playing)
+
+  01234567 
+ +--------+
+0|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m|
+1|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m|
+2|[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m[36mo(B[m[36mo(B[m[36mo(B[m|
+3|[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m[36mo(B[m[36mo(B[m[36mo(B[m|
+4|[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m[36mo(B[m[36mo(B[m[31mx(B[m[31mx(B[m|
+5|[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m[31mx(B[m[31mx(B[m |
+6|[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m[36mo(B[m [31mx(B[m |
+7|[36mo(B[m[31mx(B[m[36mo(B[m[36mo(B[m  [36mo(B[m[36mo(B[m|
+ +--------+
+Je suis de profondeur 3
+blue player's turn (he is losing by 10 before playing)
+
+  01234567 
+ +--------+
+0|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m|
+1|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m|
+2|[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m[36mo(B[m[36mo(B[m[36mo(B[m|
+3|[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m[36mo(B[m[36mo(B[m[36mo(B[m|
+4|[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m[36mo(B[m[36mo(B[m[31mx(B[m[31mx(B[m|
+5|[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m[31mx(B[m[31mx(B[m[31mx(B[m|
+6|[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m[36mo(B[m [31mx(B[m |
+7|[36mo(B[m[31mx(B[m[36mo(B[m[36mo(B[m  [36mo(B[m[36mo(B[m|
+ +--------+
+red player's turn (he is losing by -3 before playing)
+
+  01234567 
+ +--------+
+0|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m|
+1|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m|
+2|[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m[36mo(B[m[36mo(B[m[36mo(B[m|
+3|[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m[36mo(B[m[36mo(B[m[36mo(B[m|
+4|[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m[36mo(B[m[36mo(B[m[31mx(B[m[31mx(B[m|
+5|[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m[36mo(B[m[36mo(B[m[31mx(B[m|
+6|[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m[36mo(B[m[36mo(B[m[36mo(B[m |
+7|[36mo(B[m[31mx(B[m[36mo(B[m[36mo(B[m  [36mo(B[m[36mo(B[m|
+ +--------+
+Je suis de profondeur 3
+blue player's turn (he is losing by 12 before playing)
+
+  01234567 
+ +--------+
+0|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m|
+1|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m|
+2|[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m[36mo(B[m[36mo(B[m[36mo(B[m|
+3|[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m[36mo(B[m[36mo(B[m[36mo(B[m|
+4|[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m[36mo(B[m[36mo(B[m[31mx(B[m[31mx(B[m|
+5|[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m[36mo(B[m[31mx(B[m[31mx(B[m|
+6|[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m[36mo(B[m[36mo(B[m[31mx(B[m[31mx(B[m|
+7|[36mo(B[m[31mx(B[m[36mo(B[m[36mo(B[m  [31mx(B[m[31mx(B[m|
+ +--------+
+red player's turn (he is losing by -7 before playing)
+
+  01234567 
+ +--------+
+0|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m|
+1|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m|
+2|[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m[36mo(B[m[36mo(B[m[36mo(B[m|
+3|[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m[36mo(B[m[36mo(B[m[36mo(B[m|
+4|[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m[36mo(B[m[36mo(B[m[31mx(B[m[31mx(B[m|
+5|[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m[36mo(B[m[31mx(B[m[31mx(B[m|
+6|[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m[36mo(B[m[36mo(B[m[36mo(B[m[31mx(B[m|
+7|[36mo(B[m[31mx(B[m[36mo(B[m[36mo(B[m [36mo(B[m[36mo(B[m[31mx(B[m|
+ +--------+
+Je suis de profondeur 3
+blue player's turn (he is losing by 17 before playing)
+
+  01234567 
+ +--------+
+0|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m|
+1|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m|
+2|[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m[36mo(B[m[36mo(B[m[36mo(B[m|
+3|[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m[36mo(B[m[36mo(B[m[36mo(B[m|
+4|[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m[36mo(B[m[36mo(B[m[31mx(B[m[31mx(B[m|
+5|[31mx(B[m[31mx(B[m [36mo(B[m[36mo(B[m[36mo(B[m[31mx(B[m[31mx(B[m|
+6|[31mx(B[m[31mx(B[m[36mo(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[31mx(B[m|
+7|[36mo(B[m[31mx(B[m[36mo(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[31mx(B[m|
+ +--------+
+RED (Min - Max (max level: 3)) wins over BLUE (Greedy)!
+
+  01234567 
+ +--------+
+0|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m|
+1|[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m|
+2|[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m[36mo(B[m[36mo(B[m[36mo(B[m|
+3|[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[36mo(B[m[36mo(B[m[36mo(B[m[36mo(B[m|
+4|[31mx(B[m[36mo(B[m[36mo(B[m[36mo(B[m[36mo(B[m[36mo(B[m[31mx(B[m[31mx(B[m|
+5|[31mx(B[m[36mo(B[m[36mo(B[m[36mo(B[m[36mo(B[m[36mo(B[m[31mx(B[m[31mx(B[m|
+6|[31mx(B[m[36mo(B[m[36mo(B[m[36mo(B[m[31mx(B[m[31mx(B[m[36mo(B[m[31mx(B[m|
+7|[36mo(B[m[31mx(B[m[36mo(B[m[31mx(B[m[31mx(B[m[31mx(B[m[36mo(B[m[31mx(B[m|
+ +--------+
+GAME OVER (red value of 8)
