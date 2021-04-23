@@ -6,6 +6,7 @@ use crate::configuration::{Configuration, Movement};
 use crate::shmem::AtomicMove;
 use std::collections::HashMap;
 use rayon::prelude::*;
+use std::sync::atomic::{AtomicI8, Ordering};
 //use std::sync::atomic::{AtomicI;
 
 /// Anytime alpha beta algorithm.
@@ -97,37 +98,60 @@ fn negamax(state: &Configuration, depth: u8, mut alpha: i8, mut beta: i8) -> (Op
     }
 }
 /*Young Brothers Wait Concept*/
-fn negamax_par(state: &Configuration, depth: u8, mut alpha: i8, mut beta: i8) -> (Option<Movement>, i8) {
-    if depth == 0 || state.movements().next().is_none() {
-        (None, state.value())
-    } else {
-        let mut v_opt: i8 = 127;
-        let mut opt: Option<Movement> = None;
+// fn negamax_par(state: &Configuration, depth: u8, alpha: &AtomicI8, beta: &AtomicI8) -> (Option<Movement>, i8) {
+    // if depth == 0 || state.movements().next().is_none() {
+    //     (None, state.value())
+    // } else {
+    //     let v_opt: AtomicI8 = AtomicI8::new(127);
+    //     let mut opt: AtomicMove = AtomicMove::new().unwrap();
 
-        /*Premier mouvement en séquentiel*/
-        let mut iter_m = state.movements();
-        let mut mov = iter_m.next();
-        let (_, value) = negamax_par(&state.play(&mov.unwrap()), depth - 1, -beta, -alpha);
+    //     /*Premier mouvement en séquentiel*/
+    //     let mut iter_m = state.movements();
+    //     let mut mov = iter_m.next();
+    //     let (_, value) = negamax_par(&state.play(&mov.unwrap()), depth - 1, &(AtomicI8::new(- beta.load(Ordering::SeqCst))), &(AtomicI8::new(- alpha.load(Ordering::SeqCst))));
 
-        let mut readed_value = -value;
+    //     let readed_value = -value;
 
-        if readed_value < v_opt {
-            v_opt = readed_value;
-            opt = Some(mov.unwrap());
-        }
+    //     if readed_value < v_opt.load(Ordering::SeqCst) {
+    //         v_opt.store(readed_value, Ordering::SeqCst);
+    //         opt.store(mov);
+    //     }
 
-        if readed_value < beta {
-            beta = readed_value;
-        }
+    //     if readed_value < beta.load(Ordering::SeqCst) {
+    //         beta.store(readed_value,Ordering::SeqCst);
+    //     }
 
-        /*Suite en parallèle*/
+    //     /*Suite en parallèle*/
 
-        //let par_movements = iter_m
+    //     let par_movements = iter_m
+    //                         .par_bridge()
+    //                         .try_for_each(|mov|
+    //                             negamax_par_aux(state, depth, &alpha, &beta, mov, &v_opt, &opt)
+    //                         );
 
 
-        (opt, v_opt)
-    }
-}
+    //     (opt.load(), v_opt.load(Ordering::SeqCst))
+    // }
+// }
+
+// fn negamax_par_aux(state: &Configuration, depth: u8, mut alpha: &AtomicI8, mut beta: &AtomicI8, mov: Movement, mut v_opt: &AtomicI8, mut opt: &AtomicMove) {
+//     let (_, val) = negamax_par(&state.play(mov), depth - 1, AtomicI8::new(- beta.load(Ordering::SeqCst)), AtomicI8::new(- alpha.load(Ordering::SeqCst)));
+
+//     let mut read_value = -val;
+
+//     if read_value < v_opt.load(Ordering::SeqCst) {
+//         v_opt.store(read_value, Ordering::SeqCst);
+//         opt.store(Some(mov));
+//     }
+
+//     if read_value < beta.load(Ordering::SeqCst) {
+//         beta.store(read_value,Ordering::SeqCst);
+//     }
+
+//     if alpha.load(Ordering::SeqCst) >= beta.load(Ordering::SeqCst) {
+//         return ();
+//     }
+// }
 
 fn negamax_mem(state: &Configuration, saving_states: &mut HashMap<String, (Option<Movement>, i8)>, depth: u8, mut alpha: i8, mut beta: i8) -> (Option<Movement>, i8) {
     if depth == 0 || state.movements().next().is_none() {
@@ -249,6 +273,11 @@ impl Strategy for AlphaBeta {
         let alpha = -127;
         let beta = 127;
         let (opt, _) = negamax(state, depth, alpha, beta);
+
+        /*Negamin parallèle alpha-beta*/
+        // let alpha = AtomicI8::new(-127);
+        // let beta = AtomicI8::new(127);
+        // let (opt, _) = negamax_par(state, depth, &alpha, &beta);
 
         /*Negamax mem*/
         //let mut saving_states: HashMap<String, (Option<Movement>, i8)> = HashMap::new();
